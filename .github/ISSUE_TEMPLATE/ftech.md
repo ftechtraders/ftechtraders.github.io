@@ -1,9 +1,9 @@
 ---
-name: Feature request
+name: Ftech
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: documentation, enhancement, good first issue
+assignees: fidamahi32
 
 ---
 
